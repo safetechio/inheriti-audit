@@ -23,9 +23,9 @@ These reports detail various security aspects of the Inheriti platform, includin
 
 | Date       | Auditor         | Scope                                           | Link                                   |
 |------------|-----------------|-------------------------------------------------|----------------------------------------|
-| 2020-09-15 | Red4Sec         | Smart Contract Security                         | [Audit Report PDF](https://github.com/safetechio/inheriti-audit/blob/main/Reports/2020.09.15_Inheriti%20-%20Smart%20Contract%20Audit%20Report.pdf)     |
-| 2024-06-18 | Red4Sec         | Platform Audit                                  | [Audit Report PDF]()     |
-| 2024-07-26 | Red4Sec         | Data Integrity Review                           | [Audit Report PDF](https://github.com/safetechio/inheriti-audit/blob/main/Reports/2024.07.26_Inheriti%202.0%20-%20Data%20Integrity%20Certificate%20Inheriti.pdf)     |
+| 2020-09-15 | Red4Sec         | Smart Contract Security                         | [Audit Report PDF](https://github.com/safetechio/inheriti-audit/blob/main/Reports/2020.09.15_Inheriti%20-%20Smart%20Contract%20Audit%20Report.pdf)               |
+| 2024-06-18 | Red4Sec         | Platform Audit                                  | [Audit Report PDF](https://github.com/safetechio/inheriti-audit/blob/main/Reports/2024.06.18_Inheriti%202.0%20-%20Audit%20Report.pdf)                            |
+| 2024-07-26 | Red4Sec         | Data Integrity Review                           | [Audit Report PDF](https://github.com/safetechio/inheriti-audit/blob/main/Reports/2024.07.26_Inheriti%202.0%20-%20Data%20Integrity%20Certificate%20Inheriti.pdf) |
 
 > **Note**: Reports will be added as they become available.
 
